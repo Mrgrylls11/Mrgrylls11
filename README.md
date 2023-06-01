@@ -19,7 +19,7 @@ I am currently working on web development projects.<br>I am looking to collabora
 ![](https://github-contributor-stats.vercel.app/api?username=Mrgrylls11&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="[https://rm.up.railway.app/](https://media3.giphy.com/media/fOVGTYyYtV6Ra/200w.gif?cid=6c09b95294w07uaqajq95gclooy9177wqmztdwe4kjwagvrw&ep=v1_gifs_search&rid=200w.gif&ct=g)" width="512px"/>
+<img src="https://rm.up.railway.app/](https://media3.giphy.com/media/fOVGTYyYtV6Ra/200w.gif?cid=6c09b95294w07uaqajq95gclooy9177wqmztdwe4kjwagvrw&ep=v1_gifs_search&rid=200w.gif&ct=g" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Mrgrylls11&icon=3&color=1)](https://visitcount.itsvg.in)
