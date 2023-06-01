@@ -1,4 +1,4 @@
-#Hi, I am Ashutosh.
+# Hi, I am Ashutosh.
 
 # 💫 About Me:
 I am currently working on web development projects.<br>I am looking to collaborate on projects to learn from other people's experiences.<br>I am looking for help with getting a placement in web development.<br>I am currently learning and revising the concepts of development and reactjs.<br>I am an animal lover so if you meet me and see my pet snake, don't be scared.
