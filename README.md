@@ -1,3 +1,5 @@
+Hi, I am Ashutosh.
+
 # 💫 About Me:
 I am currently working on web development projects.<br>I am looking to collaborate on projects to learn from other people's experiences.<br>I am looking for help with getting a placement in web development.<br>I am currently learning and revising the concepts of development and reactjs.<br>I am an animal lover so if you meet me and see my pet snake, don't be scared.
 
@@ -18,7 +20,6 @@ I am currently working on web development projects.<br>I am looking to collabora
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Mrgrylls11&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
 <img src="https://raw.githubusercontent.com/AyushSaini00/AyushSaini00/master/images/tbbt.gif" width="512px"/>
 
 ---
