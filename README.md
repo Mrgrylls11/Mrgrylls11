@@ -1,7 +1,8 @@
 # Hi, I am Ashutosh.
 
 # 💫 About Me:
-I am currently working on web development projects.<br>I am looking to collaborate on projects to learn from other people's experiences.<br>I am looking for help with getting a placement in web development.<br>I am currently learning and revising the concepts of development and reactjs.<br>I am an animal lover so if you meet me and see my pet snake, don't be scared.
+I am a CS Engineering Graduate, chased dreams of being in the airforce to now following the path of Web Development.<br> I wish to start my career in a development role and would love to put all the efforts i can to make the user experience and my experience as a developer a better one.<br>
+learning daily, living and growing day by day, i hope to get a starting point and rest is hardwork. <br> Live Long and Prosper.
 
 
 ## 🌐 Socials:
